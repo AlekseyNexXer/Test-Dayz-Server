@@ -11,7 +11,7 @@ steamapps
 Users
 NexXerServer/DataCache
 NexXerServer/BattlEye
-
+Bec/*.exe
 #Ignore types
 *.db
 *.001
