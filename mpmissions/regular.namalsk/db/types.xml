@@ -14056,17 +14056,6 @@
   </type>
 
       <!-- MOD-@Cl0ud's Winter Gear -->
-<<<<<<< HEAD
-	  	<type name="WinterGear_Ushanka">
-        <nominal>30</nominal>
-        <lifetime>100</lifetime>
-        <restock>0</restock>
-        <min>20</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-=======
   <type name="WinterGaer_Ushanka">
     <nominal>12</nominal>
     <min>9</min>
@@ -14076,7 +14065,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
->>>>>>> b5edd90c4b44b0b4946f62e06618ac5d0525dce1
     <category name="clothes" />
     <tag name="civilian" />
     <tag name="industrial" />
