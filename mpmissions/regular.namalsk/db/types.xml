@@ -14056,7 +14056,7 @@
   </type>
 
       <!-- MOD-@Cl0ud's Winter Gear -->
-  <type name="CarRadiator">
+  <type name="WinterGaer_Ushanka">
     <nominal>12</nominal>
     <min>9</min>
     <lifetime>500</lifetime>
