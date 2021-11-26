@@ -9,7 +9,7 @@ mpmissions/dayzOffline.*
 NexXerServer/VPPAdmintools/**/*.txt
 steamapps
 Users
-
+NexXerServer/DataCache
 
 #Ignore types
 *.db
