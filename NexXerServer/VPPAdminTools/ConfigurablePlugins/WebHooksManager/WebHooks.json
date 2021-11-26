@@ -1,24 +1,14 @@
 {
-    "M_DATA": [
-        {
-            "m_Name": "NexXer Art",
-            "m_URL": "https://discord.com/api/webhooks/913553929210568754/RV9IusA6bCVntXdeWiP3RdefG0m05cIce2fIp1YJLURoOGPNgNLxwj48Iot3rUSgdSD2",
-            "m_deathKillLogs": 0,
-            "m_adminActivityLog": 0,
-            "m_admHitLog": 0,
-            "m_joinLeaveLog": 1,
-            "m_serverStatusLog": 1,
-            "m_serverStatsInterval": 3600
-        },
-        {
-            "m_Name": "Administrato Monitorum",
-            "m_URL": "https://discord.com/api/webhooks/913741569104945203/e00zAtPM3X1tkGs3lxiuu9to-H8KTyOW0oKQm8y3cpVC5HhqHWT08IIgRzyDSXW5IHrT",
-            "m_deathKillLogs": 1,
-            "m_adminActivityLog": 1,
-            "m_admHitLog": 0,
-            "m_joinLeaveLog": 0,
-            "m_serverStatusLog": 0,
-            "m_serverStatsInterval": 60
-        }
-    ]
+  "M_DATA": [
+    {
+      "m_Name": "NexXer Art",
+      "m_URL": "https://discord.com/api/webhooks/913553929210568754/RV9IusA6bCVntXdeWiP3RdefG0m05cIce2fIp1YJLURoOGPNgNLxwj48Iot3rUSgdSD2",
+      "m_deathKillLogs": 0,
+      "m_adminActivityLog": 0,
+      "m_admHitLog": 0,
+      "m_joinLeaveLog": 1,
+      "m_serverStatusLog": 1,
+      "m_serverStatsInterval": 3600
+    }
+  ]
 }
