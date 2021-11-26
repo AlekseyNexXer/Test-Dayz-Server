@@ -1,0 +1,25 @@
+#Ignore folders
+
+@*
+addons
+bliss
+docs
+dta
+mpmissions/dayzOffline.*
+NexXerServer/VPPAdmintools/**/*.txt
+steamapps
+Users
+
+
+#Ignore types
+*.db
+*.001
+*.002
+*.bikey
+*.log
+*.RPT
+*.ADM
+*.bin
+*.dll
+*.pbo
+*.exe
