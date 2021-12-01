@@ -1,0 +1,2919 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+    <damage min="0.3" max="0.7" />
+    <!-- NAMALSK - WEAPONS - RIFLES -->
+    <type name="AK74">
+        <attachments chance="1.00">
+            <item name="AK74_WoodBttstck" chance="0.33" />
+            <item name="AK_FoldingBttstck" chance="0.33" />
+            <item name="AK_PlasticBttstck" chance="0.34" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AK74_Hndgrd" chance="0.33" />
+            <item name="AK_RailHndgrd" chance="0.33" />
+            <item name="AK_PlasticHndgrd" chance="0.34" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_AK74_30Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="KobraOptic" chance="0.50" />
+            <item name="KashtanOptic" chance="0.30" />
+            <item name="PSO1Optic" chance="0.20" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="AK_Bayonet" chance="0.50" />
+            <item name="AK_Suppressor" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="AKS74U">
+        <attachments chance="1.00">
+            <item name="AK74_WoodBttstck" chance="0.33" />
+            <item name="AK_FoldingBttstck" chance="0.33" />
+            <item name="AK_PlasticBttstck" chance="0.34" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AK74_Hndgrd" chance="0.33" />
+            <item name="AK_RailHndgrd" chance="0.33" />
+            <item name="AK_PlasticHndgrd" chance="0.34" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_AK74_30Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="KobraOptic" chance="0.50" />
+            <item name="KashtanOptic" chance="0.30" />
+            <item name="PSO1Optic" chance="0.20" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="AK_Suppressor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="AK101">
+        <attachments chance="1.00">
+            <item name="AK74_WoodBttstck" chance="0.33" />
+            <item name="AK_FoldingBttstck" chance="0.33" />
+            <item name="AK_PlasticBttstck" chance="0.34" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AK74_Hndgrd" chance="0.33" />
+            <item name="AK_RailHndgrd" chance="0.33" />
+            <item name="AK_PlasticHndgrd" chance="0.34" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_AK74_30Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="KobraOptic" chance="0.50" />
+            <item name="KashtanOptic" chance="0.30" />
+            <item name="PSO1Optic" chance="0.20" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="AK_Bayonet" chance="0.50" />
+            <item name="AK_Suppressor" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="AKM">
+        <attachments chance="1.00">
+            <item name="AK_WoodBttstck" chance="0.33" />
+            <item name="AK_FoldingBttstck" chance="0.33" />
+            <item name="AK_PlasticBttstck" chance="0.34" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AK_WoodHndgrd" chance="0.33" />
+            <item name="AK_RailHndgrd" chance="0.33" />
+            <item name="AK_PlasticHndgrd" chance="0.34" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_AKM_30Rnd" chance="0.40" />
+            <item name="Mag_AKM_Palm30Rnd" chance="0.40" />
+            <item name="Mag_AKM_Drum75Rnd" chance="0.20" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="KobraOptic" chance="0.50" />
+            <item name="KashtanOptic" chance="0.30" />
+            <item name="PSO1Optic" chance="0.20" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="AK_Bayonet" chance="0.50" />
+            <item name="AK_Suppressor" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="B95">
+        <attachments chance="0.20">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="CZ61">
+        <attachments chance="0.40">
+            <item name="Mag_CZ61_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="PistolSuppressor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="CZ527">
+        <attachments chance="0.30">
+            <item name="Mag_CZ527_5rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FAL">
+        <attachments chance="1.00">
+            <item name="Fal_OeBttstck" chance="0.50" />
+            <item name="Fal_FoldingBttstck" chance="0.50" />
+        </attachments>
+        <attachments chance="0.40">
+            <item name="Mag_FAL_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="ReflexOptic" chance="0.38" />
+            <item name="M4_T3NRDSOptic" chance="0.27" />
+            <item name="M68Optic" chance="0.20" />
+            <item name="ACOGOptic" chance="0.15" />
+        </attachments>
+    </type>
+    <type name="Izh18" />
+    <type name="M4A1">
+        <attachments chance="1.00">
+            <item name="M4_CQBBttstck" chance="0.33" />
+            <item name="M4_MPBttstck" chance="0.33" />
+            <item name="M4_OEBttstck" chance="0.34" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="0.33" />
+            <item name="M4_RISHndgrd" chance="0.33" />
+            <item name="M4_MPHndgrd" chance="0.34" />
+        </attachments>
+        <attachments chance="1.0">
+            <item name="M4_CarryHandleOptic" chance="0.30" />
+            <item name="BUISOptic" chance="0.24" />
+            <item name="ReflexOptic" chance="0.20" />
+            <item name="M4_T3NRDSOptic" chance="0.10" />
+            <item name="M68Optic" chance="0.10" />
+            <item name="ACOGOptic" chance="0.06" />
+        </attachments>
+        <attachments chance="1.0">
+            <item name="Mag_CMAG_10Rnd" chance="0.10" />
+            <item name="Mag_CMAG_20Rnd" chance="0.15" />
+            <item name="Mag_STANAG_30Rnd" chance="0.25" />
+            <item name="Mag_CMAG_30Rnd" chance="0.25" />
+            <item name="Mag_CMAG_40Rnd" chance="0.15" />
+            <item name="Mag_STANAG_60Rnd" chance="0.10" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="M9A1_Bayonet" chance="0.50" />
+            <item name="M4_Suppressor" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="M16A2">
+        <attachments chance="1.0">
+            <item name="Mag_CMAG_10Rnd" chance="0.10" />
+            <item name="Mag_CMAG_20Rnd" chance="0.15" />
+            <item name="Mag_STANAG_30Rnd" chance="0.25" />
+            <item name="Mag_CMAG_30Rnd" chance="0.25" />
+            <item name="Mag_CMAG_40Rnd" chance="0.15" />
+            <item name="Mag_STANAG_60Rnd" chance="0.10" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="M4_Suppressor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FAMAS">
+        <attachments chance="1.00">
+            <item name="Mag_FAMAS_25Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="AugShort">
+        <attachments chance="1.00">
+            <item name="Mag_Aug_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Aug">
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="0.30" />
+            <item name="BUISOptic" chance="0.24" />
+            <item name="ReflexOptic" chance="0.20" />
+            <item name="M4_T3NRDSOptic" chance="0.10" />
+            <item name="M68Optic" chance="0.10" />
+            <item name="ACOGOptic" chance="0.06" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_CMAG_10Rnd" chance="0.10" />
+            <item name="Mag_CMAG_20Rnd" chance="0.15" />
+            <item name="Mag_STANAG_30Rnd" chance="0.25" />
+            <item name="Mag_CMAG_30Rnd" chance="0.25" />
+            <item name="Mag_CMAG_40Rnd" chance="0.15" />
+            <item name="Mag_STANAG_60Rnd" chance="0.10" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="M4_Suppressor" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="UniversalLight" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Mosin9130">
+        <attachments chance="0.30">
+            <item name="Mosin_Compensator" chance="0.50" />
+            <item name="Mosin_Bayonet" chance="0.50" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="PUScopeOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="MP5K">
+        <attachments chance="1.00">
+            <item name="MP5k_StockBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="MP5_PlasticHndgrd" chance="0.50" />
+            <item name="MP5_RailHndgrd" chance="0.50" />
+        </attachments>
+        <attachments chance="0.40">
+            <item name="Mag_MP5_15Rnd" chance="0.60" />
+            <item name="Mag_MP5_30Rnd" chance="0.40" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="ReflexOptic" chance="0.38" />
+            <item name="M4_T3NRDSOptic" chance="0.27" />
+            <item name="M68Optic" chance="0.20" />
+            <item name="ACOGOptic" chance="0.15" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="MP5_Compensator" chance="1.00" />
+            <item name="PistolSuppressor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Repeater" />
+    <type name="Ruger1022">
+        <attachments chance="0.30">
+            <item name="Mag_Ruger1022_15Rnd" chance="0.60" />
+            <item name="Mag_Ruger1022_30Rnd" chance="0.40" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="SKS">
+        <attachments chance="0.30">
+            <item name="SKS_Bayonet" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="PUScopeOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="SVD">
+        <attachments chance="0.80">
+            <item name="PSO1Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.60">
+            <item name="Mag_SVD_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="UMP45">
+        <attachments chance="0.30">
+            <item name="Mag_UMP_25Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="ReflexOptic" chance="0.38" />
+            <item name="M4_T3NRDSOptic" chance="0.27" />
+            <item name="M68Optic" chance="0.20" />
+            <item name="ACOGOptic" chance="0.15" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="PistolSuppressor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="VSS">
+        <attachments chance="0.80">
+            <item name="PSO11Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.60">
+            <item name="Mag_VSS_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="ASVAL">
+        <attachments chance="1.00">
+            <item name="UniversalLight" chance="1.00" />
+        </attachments>
+        <attachments chance="0.80">
+            <item name="ReflexOptic" chance="0.38" />
+            <item name="M4_T3NRDSOptic" chance="0.27" />
+            <item name="M68Optic" chance="0.20" />
+            <item name="ACOGOptic" chance="0.15" />
+        </attachments>
+        <attachments chance="0.60">
+            <item name="Mag_VSS_10Rnd" chance="0.40" />
+            <item name="Mag_VAL_20Rnd" chance="0.60" />
+        </attachments>
+    </type>
+    <type name="Winchester70">
+        <attachments chance="0.20">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Izh43Shotgun" />
+    <type name="Mp133Shotgun">
+        <attachments chance="0.50">
+            <item name="FNP45_MRDSOptic" chance="0.27" />
+        </attachments>
+    </type>
+    <type name="Saiga">
+        <attachments chance="1.00">
+            <item name="Saiga_Bttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="0.40">
+            <item name="Mag_Saiga_5Rnd" chance="0.60" />
+            <item name="Mag_Saiga_8Rnd" chance="0.30" />
+            <item name="Mag_Saiga_Drum20Rnd" chance="0.10" />
+        </attachments>
+    </type>
+    <type name="Scout">
+        <attachments chance="0.30">
+            <item name="Mag_Scout_5Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="M68Optic" chance="0.60" />
+            <item name="ACOGOptic" chance="0.30" />
+            <item name="ACOGOptic_6x" chance="0.10" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="M4_Suppressor" chance="1.00" />
+        </attachments>
+    </type>
+
+
+    <!-- NAMALSK - WEAPONS - PISTOLS -->
+    <type name="Colt1911">
+        <attachments chance="0.80">
+            <item name="Mag_1911_7Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="TLRLight" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="PistolSuppressor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Engraved1911">
+        <attachments chance="0.80">
+            <item name="Mag_1911_7Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TLRLight" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PistolSuppressor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="CZ75">
+        <attachments chance="0.80">
+            <item name="Mag_CZ75_15Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="FNP45_MRDSOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="TLRLight" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="PistolSuppressor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Deagle">
+        <attachments chance="0.60">
+            <item name="Mag_Deagle_9rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="PistolOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.25">
+            <item name="PistolSuppressor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Deagle_Gold">
+        <attachments chance="0.90">
+            <item name="Mag_Deagle_9rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.75">
+            <item name="PistolOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="PistolSuppressor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Flaregun" />
+    <type name="FNX45">
+        <attachments chance="0.80">
+            <item name="Mag_FNX45_15Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="FNP45_MRDSOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="TLRLight" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="PistolSuppressor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Glock19">
+        <attachments chance="0.80">
+            <item name="Mag_Glock_15Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="FNP45_MRDSOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="TLRLight" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="PistolSuppressor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Magnum" />
+    <type name="MKII">
+        <attachments chance="0.90">
+            <item name="Mag_MKII_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="MakarovIJ70">
+        <attachments chance="0.90">
+            <item name="Mag_IJ70_8Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="PistolSuppressor" chance="1.00" />
+        </attachments>
+    </type>
+
+
+    <!-- NAMALSK - WEAPONS - EXPLOSIVES -->
+    <!-- none require special care -->
+
+
+    <!-- NAMALSK - WEAPONS - MELEE -->
+    <!-- none require special care -->
+
+
+    <!-- NAMALSK - AMMO -->
+    <!-- none require special care -->
+
+
+    <!-- NAMALSK - AMMO BOXES -->
+    <type name="AmmoBox">
+        <cargo chance="0.27">
+            <item name="Ammo_9x19" chance="1.00" />
+        </cargo>
+        <cargo chance="0.27">
+            <item name="Ammo_380" chance="1.00" />
+        </cargo>
+        <cargo chance="0.25">
+            <item name="Ammo_12gaPellets" chance="1.00" />
+        </cargo>
+        <cargo chance="0.25">
+            <item name="Ammo_12gaSlug" chance="1.00" />
+        </cargo>
+        <cargo chance="0.22">
+            <item name="Ammo_762x39" chance="1.00" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="Ammo_45ACP" chance="1.00" />
+        </cargo>
+        <cargo chance="0.15">
+            <item name="Ammo_762x54" chance="1.00" />
+        </cargo>
+        <cargo chance="0.10">
+            <item name="Ammo_556x45" chance="1.00" />
+        </cargo>
+    </type>
+
+    <!-- NAMALSK - MAGS -->
+    <!-- none require special care -->
+
+
+    <!-- NAMALSK - WEAPON ATTS -->
+    <!-- none require special care -->
+    
+    
+    <!-- NAMALSK - FOOD N DRINKS -->
+    <!-- none require special care -->
+
+
+    <!-- NAMALSK - MEDICAL ITEMS -->
+    <type name="FirstAidKit">
+        <cargo chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </cargo>
+        <cargo chance="1.00">
+            <item name="BloodTestKit" chance="0.33" />
+            <item name="BloodBagEmpty" chance="0.33" />
+            <item name="StartKitIV" chance="0.34" />
+        </cargo>
+    </type>
+
+
+    <!-- NAMALSK - MISC ITEMS -->
+    <type name="WaterproofBag_Yellow">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WaterproofBag_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WaterproofBag_Orange">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="PersonalRadio">
+        <attachments chance="1.00">
+            <item name="Battery9V" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FishingRod">
+        <attachments chance="0.50">
+            <item name="Hook" chance="1.00" />
+        </attachments>
+    </type>
+
+
+    <!-- NAMALSK - CLOTHES - TOPS -->
+    <type name="GorkaEJacket_Summer">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="GorkaEJacket_Autumn">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="GorkaEJacket_Flat">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="GorkaEJacket_PautRev">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="BDUJacket">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="Sweater_Gray">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="Sweater_Blue">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="Sweater_Green">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="Sweater_Red">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="Shirt_BlueCheck" />
+    <type name="Shirt_BlueCheckBright" />
+    <type name="Shirt_GreenCheck" />
+    <type name="Shirt_RedCheck" />
+    <type name="Shirt_WhiteCheck" />
+    <type name="Shirt_PlaneBlack" />
+    <type name="Hoodie_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Hoodie_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Hoodie_Brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Hoodie_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Hoodie_Grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Hoodie_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="TacticalShirt_Grey">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="TacticalShirt_Black">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="TacticalShirt_Olive">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="TacticalShirt_Tan">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="HikingJacket_Black">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+    </type>
+    <type name="HikingJacket_Blue">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+    </type>
+    <type name="HikingJacket_Red">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+    </type>
+    <type name="HikingJacket_Green">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+    </type>
+    <type name="Raincoat_Orange">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Raincoat_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Raincoat_Yellow">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Raincoat_Pink">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Raincoat_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Raincoat_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Raincoat_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="M65Jacket_Black">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="M65Jacket_Khaki">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="M65Jacket_Olive">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="M65Jacket_Tan">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="TTsKOJacket_Camo">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="RidersJacket_Black">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="WoolCoat_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WoolCoat_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WoolCoat_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WoolCoat_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WoolCoat_Beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WoolCoat_RedCheck">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WoolCoat_BlackCheck">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WoolCoat_BlueCheck">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WoolCoat_GreyCheck">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WoolCoat_BrownCheck">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="TrackSuitJacket_Black">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="TrackSuitJacket_Blue">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="TrackSuitJacket_Green">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="TrackSuitJacket_LightBlue">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="TrackSuitJacket_Red">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="PoliceJacket">
+        <cargo preset="toolspolice" />
+        <cargo preset="ammopolice" />
+    </type>
+    <type name="PoliceJacketOrel">
+        <cargo preset="toolspolice" />
+        <cargo preset="ammopolice" />
+        <cargo preset="magspolice" />
+    </type>
+    <type name="ParamedicJacket_Blue">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ParamedicJacket_Crimson">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ParamedicJacket_Green">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="FirefighterJacket_Beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="FirefighterJacket_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="MiniDress_RedChecker" />
+    <type name="MiniDress_WhiteChecker" />
+    <type name="MiniDress_GreenChecker" />
+    <type name="MiniDress_BrownChecker" />
+    <type name="MiniDress_BlueChecker" />
+    <type name="MiniDress_BlueWithDots" />
+    <type name="QuiltedJacket_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="QuiltedJacket_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="QuiltedJacket_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="QuiltedJacket_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="QuiltedJacket_Grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="QuiltedJacket_Orange">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="QuiltedJacket_Yellow">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="QuiltedJacket_Violet">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="BomberJacket_Black">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="BomberJacket_Brown">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="BomberJacket_Blue">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="BomberJacket_Grey">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="BomberJacket_Maroon">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="BomberJacket_Olive">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="BomberJacket_SkyBlue">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="HuntingJacket_Autumn">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+    </type>
+    <type name="HuntingJacket_Brown">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+    </type>
+    <type name="HuntingJacket_Spring">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+    </type>
+    <type name="HuntingJacket_Summer">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+    </type>
+    <type name="HuntingJacket_Winter">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+    </type>
+    <type name="MedicalScrubsShirt_Blue">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="MedicalScrubsShirt_Green">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="MedicalScrubsShirt_White">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="LabCoat">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="NurseDress_White">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="NurseDress_Blue">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="USMCJacket_Desert">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="USMCJacket_Woodland">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="TShirt_Beige" />
+    <type name="TShirt_Black" />
+    <type name="TShirt_Blue" />
+    <type name="TShirt_Green" />
+    <type name="TShirt_OrangeWhiteStripes" />
+    <type name="TShirt_Red" />
+    <type name="TShirt_RedBlackStripes" />
+    <type name="TShirt_White" />
+    <type name="TShirt_Grey" />
+    <type name="Blouse_Blue" />
+    <type name="Blouse_Green" />
+    <type name="Blouse_Violet" />
+    <type name="Blouse_White" />
+    <type name="PrisonUniformJacket" />
+    <type name="NBCJacketGray">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="NBCJacketYellow">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="DenimJacket">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="Telnyashka" />
+    <type name="JumpsuitJacket_Blue">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="JumpsuitJacket_Gray">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="JumpsuitJacket_Green">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="JumpsuitJacket_Red">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="ManSuitJacket_Beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ManSuitJacket_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ManSuitJacket_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ManSuitJacket_Brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ManSuitJacket_DarkGrey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ManSuitJacket_Khaki">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ManSuitJacket_LightGrey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ManSuitJacket_White">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WomanSuitJacket_Beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WomanSuitJacket_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WomanSuitJacket_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WomanSuitJacket_Brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WomanSuitJacket_DarkGrey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WomanSuitJacket_Khaki">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WomanSuitJacket_LightGrey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="WomanSuitJacket_White">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="dzn_gorka_up_winter">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_sumrak_up_coldw">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_yeger_up_coldw">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_yeger_up_woodl">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="dzn_bubblegoose_blue">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="dzn_bubblegoose_red">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="dzn_bubblegoose_orange">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="dzn_bubblegoose_green">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="dzn_tacticalshirt_olive_ru">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="dzn_tacticalshirt_tan_ru">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="dzn_tacticalshirt_white_ru">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+
+
+    <!-- NAMALSK - CLOTHES - PANTS -->
+    <type name="CivilianBelt">
+        <attachments chance="0.15">
+            <item name="PlateCarrierHolster" chance="1.00" />
+        </attachments>
+        <attachments chance="0.25">
+            <item name="NylonKnifeSheath" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="MilitaryBelt">
+        <attachments chance="0.15">
+            <item name="PlateCarrierHolster" chance="1.00" />
+        </attachments>
+        <attachments chance="0.25">
+            <item name="NylonKnifeSheath" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="GorkaPants_Summer">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="GorkaPants_Autumn">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="GorkaPants_Flat">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="GorkaPants_PautRev">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="CargoPants_Beige">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="CargoPants_Black">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="CargoPants_Blue">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="CargoPants_Green">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="CargoPants_Grey">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="TTSKOPants">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="HunterPants_Autumn">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+    </type>
+    <type name="HunterPants_Brown">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+    </type>
+    <type name="HunterPants_Spring">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+    </type>
+    <type name="HunterPants_Summer">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+    </type>
+    <type name="HunterPants_Winter">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+    </type>
+    <type name="CanvasPants_Beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="CanvasPants_Grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="CanvasPants_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="CanvasPants_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="CanvasPants_Violet">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="TrackSuitPants_Black">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="TrackSuitPants_Blue">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="TrackSuitPants_Green">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="TrackSuitPants_LightBlue">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="TrackSuitPants_Red">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="PolicePants">
+        <cargo preset="toolspolice" />
+        <cargo preset="ammopolice" />
+    </type>
+    <type name="PolicePantsOrel">
+        <cargo preset="toolspolice" />
+        <cargo preset="ammopolice" />
+        <cargo preset="magspolice" />
+    </type>
+    <type name="ParamedicPants_Blue">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ParamedicPants_Crimson">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ParamedicPants_Green">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="FirefightersPants_Beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="FirefightersPants_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="MedicalScrubsPants_Blue">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="MedicalScrubsPants_Green">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="MedicalScrubsPants_White">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="USMCPants_Desert">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="USMCPants_Woodland">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="SlacksPants_Beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="SlacksPants_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="SlacksPants_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="SlacksPants_Brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="SlacksPants_DarkGrey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="SlacksPants_Khaki">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="SlacksPants_LightGrey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="SlacksPants_White">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="BDUpants">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="Jeans_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Jeans_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Jeans_Brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Jeans_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Jeans_Grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Jeans_BlueDark">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="PrisonUniformPants" />
+    <type name="NBCPantsGray">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="NBCPantsYellow">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="JumpsuitPants_Blue">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="JumpsuitPants_Green">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="JumpsuitPants_Grey">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="JumpsuitPants_Red">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="dzn_gorka_pants_winter">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_sumrak_pants_coldw">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_yeger_pants_coldw">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_yeger_pants_woodl">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+
+
+    <!-- NAMALSK - CLOTHES - VESTS -->
+    <type name="PlateCarrierVest">
+        <attachments chance="0.30">
+            <item name="PlateCarrierHolster" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="PlateCarrierPouches" chance="1.00" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="PlateCarrierHolster" />
+    <type name="PlateCarrierPouches" />
+    <type name="ChestHolster">
+        <attachments chance="0.05">
+            <item name="dzn_meme_banana" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="SmershVest">
+        <attachments chance="0.30">
+            <item name="SmershBag" chance="1.00" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="PressVest_Blue">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="PressVest_LightBlue">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+    </type>
+    <type name="PoliceVest">
+        <cargo preset="toolspolice" />
+        <cargo preset="ammopolice" />
+        <cargo preset="magspolice" />
+    </type>
+    <type name="UKAssVest_Black">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="UKAssVest_Camo">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="UKAssVest_Khaki">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="UKAssVest_Olive">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="HighCapacityVest_Black">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="HighCapacityVest_Olive">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="ReflexVest" />
+    <type name="HuntingVest">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+        <cargo preset="magshunting" />
+    </type>
+    <type name="dzn_ukassvest_white">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_smershvest_white">
+        <attachments chance="0.30">
+            <item name="dzn_smershbackpack_white" chance="1.00" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_smershvest_black">
+        <attachments chance="0.30">
+            <item name="dzn_smershbackpack_black" chance="1.00" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_highcapacityvest_nac">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_ballisticvest_nac">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_platecarriervest_nac">
+        <attachments chance="1.00">
+            <item name="dzn_platecarrierholster_nac" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="dzn_platecarrierpouches_nac" chance="1.00" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_platecarrierholster_nac" />
+    <type name="dzn_platecarrierpouches_nac" />
+
+
+    <!-- NAMALSK - CLOTHES - BAGS -->
+    <type name="TaloonBag_Blue">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="TaloonBag_Green">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="TaloonBag_Orange">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="TaloonBag_Violet">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="TortillaBag">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="AssaultBag_Black">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="AssaultBag_Green">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="AssaultBag_Ttsko">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="DryBag_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="DryBag_Orange">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="DryBag_Yellow">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="DryBag_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="DryBag_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="DryBag_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="HuntingBag">
+        <cargo preset="toolshunting" />
+        <cargo preset="ammohunting" />
+        <cargo preset="magshunting" />
+    </type>
+    <type name="MountainBag_Blue">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="MountainBag_Red">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="MountainBag_Orange">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="MountainBag_Green">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="ChildBag_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ChildBag_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ChildBag_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="CoyoteBag_Brown">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="CoyoteBag_Green">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="AliceBag_Green">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="AliceBag_Black">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="AliceBag_Camo">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="SmershBag">
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="dzn_bagtortilla_white">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_assaultbag_winter">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_smershbackpack_white">
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="dzn_smershbackpack_black">
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="dzn_coyotebag_white">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+    <type name="dzn_alicebag_wintercamo">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+
+
+    <!-- NAMALSK - CLOTHES - GLASSES -->
+    <!-- none require special care -->
+
+
+    <!-- NAMALSK - CLOTHES - GLOVES -->
+    <!-- none require special care -->
+
+
+    <!-- NAMALSK - CLOTHES - HEADGEAR -->
+    <type name="Mich2001Helmet">
+        <attachments chance="0.02">
+            <item name="NVGoggles" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="NVGHeadstrap">
+        <attachments chance="0.02">
+            <item name="NVGoggles" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="BoonieHat_Black">
+        <attachments chance="0.50">
+            <item name="Hook" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="BoonieHat_Blue">
+        <attachments chance="0.50">
+            <item name="Hook" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="BoonieHat_NavyBlue">
+        <attachments chance="0.50">
+            <item name="Hook" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="BoonieHat_Olive">
+        <attachments chance="0.50">
+            <item name="Hook" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="BoonieHat_Orange">
+        <attachments chance="0.50">
+            <item name="Hook" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="BoonieHat_Red">
+        <attachments chance="0.50">
+            <item name="Hook" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="BoonieHat_Tan">
+        <attachments chance="0.50">
+            <item name="Hook" chance="1.00" />
+        </attachments>
+    </type>
+
+
+    <!-- NAMALSK - CLOTHES - MASKS -->
+    <type name="AirborneMask">
+        <attachments chance="0.45">
+            <item name="GasMask_Filter" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="GP5GasMask">
+        <attachments chance="0.15">
+            <item name="GasMask_Filter" chance="1.00" />
+        </attachments>
+    </type>
+
+
+    <!-- NAMALSK - CLOTHES - SHOES -->
+    <!-- none require special care -->
+
+
+    <!-- NAMALSK - CONTAINERS - GIFT BOXES -->
+    <type name="GiftBox_Small_1">
+        <cargo preset="Gifts_AmmoBoxes" />
+        <cargo preset="Gifts_SmallMags" />
+        <cargo preset="Gifts_SmallModules" />
+    </type>
+    <type name="GiftBox_Small_2">
+        <cargo preset="Gifts_Explosives" />
+    </type>
+    <type name="GiftBox_Small_3">
+        <cargo preset="Gifts_Food" />
+    </type>
+    <type name="GiftBox_Small_4">
+        <cargo preset="Gifts_SmallClothes" />
+    </type>
+    <type name="GiftBox_Medium_1">
+        <cargo preset="Gifts_MedMags" />
+        <cargo preset="Gifts_Optics" />
+    </type>
+    <type name="GiftBox_Medium_2">
+        <cargo preset="Gifts_Optics" />
+        <cargo preset="Gifts_SmallMags" />
+        <cargo preset="Gifts_SmallModules" />
+    </type>
+    <type name="GiftBox_Medium_3">
+        <cargo preset="Gifts_Explosives" />
+        <cargo preset="Gifts_RepairKits" />
+        <cargo preset="Gifts_MediumClothes" />
+    </type>
+    <type name="GiftBox_Medium_4">
+        <cargo preset="Gifts_BigMags" />
+        <cargo preset="Gifts_RepairKits" />
+        <cargo preset="Gifts_SmallModules" />
+    </type>
+    <type name="GiftBox_Large_1">
+        <cargo preset="Gifts_BigMags" />
+        <cargo preset="Gifts_MedMags" />
+        <cargo preset="Gifts_MediumClothes" />
+        <cargo preset="Gifts_Food" />
+    </type>
+    <type name="GiftBox_Large_2">
+        <cargo preset="Gifts_BigMags" />
+        <cargo preset="Gifts_MedMags" />
+        <cargo preset="Gifts_BigModules" />
+    </type>
+    <type name="GiftBox_Large_3">
+        <cargo preset="Gifts_Optics" />
+        <cargo preset="Gifts_BigMags" />
+        <cargo preset="Gifts_SmallModules" />
+    </type>
+    <type name="GiftBox_Large_4">
+        <cargo preset="Gifts_Optics" />
+        <cargo preset="Gifts_MedMags" />
+        <cargo preset="Gifts_BigModules" />
+    </type>
+
+
+    <!-- NAMALSK - VEHICLES -->
+    <type name="OffroadHatchback">
+        <attachments chance="1.00">
+            <item name="HatchbackWheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HatchbackWheel" chance="0.95" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HatchbackWheel" chance="0.90" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HatchbackWheel" chance="0.85" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HatchbackWheel" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HatchbackDoors_Driver" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HatchbackDoors_CoDriver" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HatchbackHood" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HatchbackTrunk" chance="1.00" />
+        </attachments>
+    </type>
+    
+    <type name="CivilianSedan">
+        <attachments chance="1.00">
+            <item name="CivSedanWheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CivSedanWheel" chance="0.95" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CivSedanWheel" chance="0.90" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CivSedanWheel" chance="0.85" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CivSedanDoors_Driver" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CivSedanDoors_CoDriver" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CivSedanDoors_BackLeft" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CivSedanDoors_BackRight" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CivSedanHood" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CivSedanTrunk" chance="1.00" />
+        </attachments>
+    </type>
+
+    <type name="Hatchback_02">
+        <attachments chance="1.00">
+            <item name="Hatchback_02_Wheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Hatchback_02_Wheel" chance="0.95" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Hatchback_02_Wheel" chance="0.90" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Hatchback_02_Wheel" chance="0.85" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Hatchback_02_Door_1_1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Hatchback_02_Door_1_2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Hatchback_02_Door_2_1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Hatchback_02_Door_2_2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Hatchback_02_Hood" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Hatchback_02_Trunk" chance="1.00" />
+        </attachments>
+    </type>
+
+    <type name="Sedan_02">
+        <attachments chance="1.00">
+            <item name="Sedan_02_Wheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Sedan_02_Wheel" chance="0.95" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Sedan_02_Wheel" chance="0.90" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Sedan_02_Wheel" chance="0.85" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Sedan_02_Door_1_1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Sedan_02_Door_1_2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Sedan_02_Door_2_1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Sedan_02_Door_2_2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Sedan_02_Hood" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Sedan_02_Trunk" chance="1.00" />
+        </attachments>
+    </type>
+
+    <type name="Truck_01_Covered">
+        <attachments chance="1.00">
+            <item name="Truck_01_Wheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Truck_01_Wheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Truck_01_WheelDouble" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Truck_01_WheelDouble" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Truck_01_WheelDouble" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Truck_01_WheelDouble" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TruckBattery" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Truck_01_Door_1_1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Truck_01_Door_2_1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Truck_01_Hood" chance="1.00" />
+        </attachments>
+    </type>
+
+
+    <!-- NAMALSK - INFECTED -->
+    <type name="ZmbF_BlueCollarFat_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_BlueCollarFat_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_BlueCollarFat_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_BlueCollarFat_White">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_CitizenANormal_Beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_CitizenANormal_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_CitizenANormal_Brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_CitizenBSkinny">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_Clerk_Normal_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_Clerk_Normal_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_Clerk_Normal_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_Clerk_Normal_White">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_DoctorSkinny">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ZmbF_HikerSkinny_Blue">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_HikerSkinny_Green">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_HikerSkinny_Grey">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_HikerSkinny_Red">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Blue">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Brown">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Green">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Red">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_JournalistNormal_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_JournalistNormal_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_JournalistNormal_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_JournalistNormal_White">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_MechanicNormal_Beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_MechanicNormal_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_MechanicNormal_Grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_MechanicNormal_Orange">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_MilkMaidOld_Beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_MilkMaidOld_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_MilkMaidOld_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_MilkMaidOld_Grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_NurseFat">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ZmbF_ParamedicNormal_Blue">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ZmbF_ParamedicNormal_Green">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ZmbF_ParamedicNormal_Red">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ZmbF_PatientOld">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ZmbF_PoliceWomanNormal">
+        <cargo preset="toolspolice" />
+        <cargo preset="ammopolice" />
+        <attachments preset="headsPolice" />
+        <attachments preset="vestsPolice" />
+    </type>
+    <type name="ZmbF_ShortSkirt_beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_ShortSkirt_black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_ShortSkirt_brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_ShortSkirt_checks">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_ShortSkirt_green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_ShortSkirt_grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_ShortSkirt_red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_ShortSkirt_stripes">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_ShortSkirt_white">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_ShortSkirt_yellow">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_SkaterYoung_Brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_SkaterYoung_Striped">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_SkaterYoung_Violet">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbF_SurvivorNormal_Blue">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_SurvivorNormal_Orange">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_SurvivorNormal_Red">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_SurvivorNormal_White">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_VillagerOld_Blue">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_VillagerOld_Green">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_VillagerOld_Red">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbF_VillagerOld_White">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_CitizenASkinny_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_CitizenASkinny_Brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_CitizenASkinny_Grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_CitizenASkinny_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_CitizenBFat_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_CitizenBFat_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_CitizenBFat_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_ClerkFat_Brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_ClerkFat_Grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_ClerkFat_Khaki">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_ClerkFat_White">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_CommercialPilotOld_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_CommercialPilotOld_Brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_CommercialPilotOld_Grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_CommercialPilotOld_Olive">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_ConstrWorkerNormal_Beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_ConstrWorkerNormal_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_ConstrWorkerNormal_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_ConstrWorkerNormal_Grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_DoctorFat">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ZmbM_FarmerFat_Beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_FarmerFat_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_FarmerFat_Brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_FarmerFat_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_FirefighterNormal">
+        <cargo preset="toolsgeneral" />
+        <attachments preset="headsFirefighter" />
+    </type>
+    <type name="ZmbM_FishermanOld_Blue">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_FishermanOld_Green">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_FishermanOld_Grey">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_FishermanOld_Red">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_HandymanNormal_Beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_HandymanNormal_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_HandymanNormal_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_HandymanNormal_Grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_HandymanNormal_White">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_HeavyIndustryWorker">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_HermitSkinny_Beige">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_HermitSkinny_Black">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_HermitSkinny_Green">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_HermitSkinny_Red">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_HikerSkinny_Blue">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_HikerSkinny_Green">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_HikerSkinny_Yellow">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_HunterOld_Autumn">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_HunterOld_Spring">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_HunterOld_Summer">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_HunterOld_Winter">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_Jacket_beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_Jacket_black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_Jacket_blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_Jacket_bluechecks">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_Jacket_brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_Jacket_greenchecks">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_Jacket_grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_Jacket_khaki">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_Jacket_magenta">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_Jacket_stripes">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_JoggerSkinny_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_JoggerSkinny_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_JoggerSkinny_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_JournalistSkinny">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_MechanicSkinny_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_MechanicSkinny_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_MechanicSkinny_Grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_MechanicSkinny_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_MotobikerFat_Beige">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_MotobikerFat_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_MotobikerFat_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_OffshoreWorker_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_OffshoreWorker_Orange">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_OffshoreWorker_Red">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_OffshoreWorker_Yellow">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_ParamedicNormal_Black">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ZmbM_ParamedicNormal_Blue">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ZmbM_ParamedicNormal_Green">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ZmbM_ParamedicNormal_Red">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ZmbM_PatientSkinny">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="ZmbM_PatrolNormal_Autumn">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <attachments preset="headsRU" />
+        <attachments preset="vestsRU" />
+    </type>
+    <type name="ZmbM_PatrolNormal_Flat">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <attachments preset="headsRU" />
+        <attachments preset="vestsRU" />
+    </type>
+    <type name="ZmbM_PatrolNormal_PautRev">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <attachments preset="headsRU" />
+        <attachments preset="vestsRU" />
+    </type>
+    <type name="ZmbM_PatrolNormal_Summer">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <attachments preset="headsRU" />
+        <attachments preset="vestsRU" />
+    </type>
+    <type name="ZmbM_PolicemanFat">
+        <cargo preset="toolspolice" />
+        <cargo preset="ammopolice" />
+        <attachments preset="headsPolice" />
+        <attachments preset="vestsPolice" />
+    </type>
+    <type name="ZmbM_PolicemanSpecForce">
+        <cargo preset="toolspolice" />
+        <cargo preset="magspolice" />
+        <attachments preset="headsPoliceriot" />
+        <attachments preset="vestsPoliceriot" />
+    </type>
+    <type name="ZmbM_priestPopSkinny">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_PrisonerSkinny">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_SkaterYoung_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_SkaterYoung_Brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_SkaterYoung_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_SkaterYoung_Grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_SoldierNormal">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <attachments preset="headsRU" />
+        <attachments preset="vestsRU" />
+    </type>
+    <type name="ZmbM_SurvivorDean_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_SurvivorDean_Blue">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_SurvivorDean_Grey">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ZmbM_usSoldier_Officer_Desert">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <attachments chance="1.00">
+            <item name="OfficerHat" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="ZmbM_usSoldier_normal_Woodland">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <attachments preset="headsUS" />
+        <attachments preset="vestsUS" />
+    </type>
+    <type name="ZmbM_VillagerOld_Blue">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_VillagerOld_Green">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_VillagerOld_White">
+        <cargo preset="toolshunting" />
+    </type>
+    <type name="ZmbM_ruSoldier_normal_Woodland1">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <attachments preset="headsRU" />
+        <attachments preset="vestsRU" />
+    </type>
+    <type name="ZmbM_ruSoldier_normal_Woodland2">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <attachments preset="headsRU" />
+        <attachments preset="vestsRU" />
+    </type>
+    <type name="ZmbM_nacSoldier_normal">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+        <attachments preset="headsNAC" />
+        <attachments preset="vestsNAC" />
+    </type>
+    <type name="ZmbM_NBC_Grey">
+        <cargo chance="0.33">
+            <item name="GasMask_Filter" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="ZmbM_NBC_Yellow">
+        <cargo chance="0.33">
+            <item name="GasMask_Filter" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="ZmbM_Santa">
+        <attachments chance="1.00">
+            <item name="SantasHat" chance="1.00" />
+        </attachments>
+    </type>
+
+    <!--Landrover -->
+    	<type name="rag_landrover_110">
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_driverdoor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_codriverdoor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_hood" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo1" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo2" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo3" chance="0.30" />
+		</attachments>
+	</type>
+	
+	<type name="rag_landrover_110_olive">
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_olive" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_olive" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_olive" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_olive" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_driverdoor_olive" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_codriverdoor_olive" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_hood_olive" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo1_olive" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo2_olive" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo3_olive" chance="0.30" />
+		</attachments>
+	</type>
+	
+	<type name="rag_landrover_110_grey">
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_grey" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_grey" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_grey" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_driverdoor_grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_codriverdoor_grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_hood_grey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo1_grey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo2_grey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo3_grey" chance="0.30" />
+		</attachments>
+	</type>
+	
+	<type name="rag_landrover_110_red">
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_red" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_red" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_red" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_driverdoor_red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_codriverdoor_red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_hood_red" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo1_red" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo2_red" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo3_red" chance="0.30" />
+		</attachments>
+	</type>
+	
+	<type name="rag_landrover_110_un">
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_un" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_un" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_un" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_un" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_driverdoor_un" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_codriverdoor_un" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_hood_un" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo1_un" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo2_un" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo3_un" chance="0.30" />
+		</attachments>
+	</type>
+	<!--@Mass'sManyItemOverhaul  -->
+		    <type name="Masswoodlandcamovest" />
+			<type name="MassSmershvestcomplete" />
+			<type name="MassSmershvestWintercomplete" />
+			<type name="MassUKAssVestWinter" />
+			<type name="Masswoodlandcamosweater" />
+			<type name="MassCamoHoodie" />
+			<type name="MassCUUquiltedJacket" />
+			<type name="Massurbancamom65" />
+			<type name="MassSM90Top" />
+			<type name="MassSM90WTop" />
+			<type name="MassBlackGorkatop" />
+			<type name="MassGorkaInvertWinterTop" />
+			<type name="MassGorkaInvertWoodlandTop" />
+			<type name="MassGorkaInvertFlecktarnTop" />
+			<type name="MassUSww2top" />
+			<type name="MassGokuShirt" />
+			<type name="MassTropicamTop" />
+			<type name="MassMandraketop" />
+			<type name="MassWinterHunterTop" />
+			<type name="MassWinterCUUJacket" />
+			<type name="MassWinterBDUJacket" />
+			<type name="MassTUhikingjacket" />
+			<type name="MassOrelTopgreen" />
+			<type name="MassNBCJacketYellow" />
+			<type name="MassBlackJacket" />
+			<type name="MassBeigeJacket" />
+			<type name="MassNBCpantsYellow" />
+			<type name="MassBlackGorkabottom" />
+			<type name="MassGorkaInvertWinterPants" />
+			<type name="MassGorkaInvertWoodlandPants" />
+			<type name="MassGorkaInvertFlecktarnPants" />
+			<type name="MassTropicamPants" />
+			<type name="Masswoodlandcargopants" />
+			<type name="Massurbancamocargopants" />
+			<type name="Massjeanshorts" />
+			<type name="MassMandrakebottom" />
+			<type name="MassWinterCUUPants" />
+			<type name="MassWinterBDUPants" />
+			<type name="MassWinterHunterPants" />
+			<type name="Massorelpantsgreen" />
+			<type name="MassSM90Pants" />
+			<type name="MassSM90WPants" />
+			<type name="MassNBCbootsYellow" />
+			<type name="MassNBCglovesBlue" />
+			<type name="MassBlackYellowMB" />
+			<type name="Massczech" />
+			<type name="MassczechWinter" />
+			<type name="MassWinterTortilla" />
+			<type name="MasscamoTaloon" />
+			<type name="MasscamoTaloon1" />
+			<type name="Massbrownhuntingbp" />
+			<type name="Massblackhuntingbp" />
+			<type name="MassWinterHuntingbp" />
+			<type name="MassSmersh" />
+			<type name="MassSmershwinter" />
+			<type name="Massurbancamohat" />
+			<type name="MasscamoBooniehat" />
+			<type name="MassBeigeUshanka" />
+			<type name="MassCoyoteBPUrban" />
+			<type name="MassCanvasBag" />
+			<type name="Massblackgp5" />
+			<type name="Massmichblack" />
+			<type name="MassHuntingCowboyhat" />
+			<type name="MassWinterHuntingHood" />
+			<type name="MassNBChoodYellow" />
+			<type name="MassToolbelt" />
+			
+			<type name="MassWinterGhillieWrap" />
+			<type name="Mass_WW2Vest" />
+			<type name="MassRatnik" />
+			<type name="MassRatnik_Black" />
+			<type name="MassRatnik_Tan" />
+			<type name="Mass_TradeVest" />
+			<type name="MassPlateCarrierHolster_Black" />
+			<type name="MassPlateCarrierHolster_PartizanM" />
+			<type name="MassPlateCarrierHolster_Winter" />
+			<type name="MassPlateCarrierHolster_ODG" />
+			<type name="MassLargePlateCarrierPouches" />
+			<type name="MassLargePlateCarrierPouches_Black" />
+			<type name="MassLargePlateCarrierPouches_Tan" />
+			<type name="MassPlateCarrierPouches_Black" />
+			<type name="MassPlateCarrierPouches_PartizanM" />
+			<type name="MassPlateCarrierPouches_Winter" />
+			<type name="MassPlateCarrierPouches_ODG" />
+			<type name="MassPlateCarrier_PartizanM" />
+			<type name="MassPlateCarrier_Black" />
+			<type name="MassPlateCarrier_Winter" />
+			<type name="MassPlateCarrier_ODG" />
+			<type name="MassHeavyPlateVest_ODG" />
+			<type name="MassHeavyPlateVest_Winter" />
+			<type name="MassHeavyPlateVest_Black" />
+			<type name="MassHeavyPlateVest_PartizanM" />
+			<type name="MassHeavyPlateVest_Beige" />
+			<type name="MassSmershvestWW2complete" />
+			<type name="MassSmershvestblackcomplete" />
+			<type name="MassSSww2Camotop" />
+			<type name="MassDetectiveCoat" />
+			<type name="MassDetectiveCoat_Black" />
+			<type name="MassArmband_TU" />
+			<type name="MassArmband_NCR" />
+			<type name="MassArmband_snowBDU" />
+			<type name="MassArmband_PartizanM" />
+			<type name="MassArmband_Mandrake" />
+			<type name="MassArmband_Woodland" />
+			<type name="MassArmband_Urban" />
+			<type name="MassArmband_Orel" />
+			<type name="MassArmband_BWS" />
+			<type name="MassArmband_BT" />
+			<type name="MassSSww2CamoBreeches" />
+			<type name="MassSSww2Camopants" />
+			<type name="Mass_Sneakers" />
+			<type name="MassRuckBagDesert" />
+			<type name="MassRuckBagBlack" />
+			<type name="MassRuckBagGorka" />
+			<type name="MassRuckBagGreen" />
+			<type name="MassSlingBag" />
+			<type name="MassSlingBagDesert" />
+			<type name="MassSlingBagGorka" />
+			<type name="MassMolleBagBlack" />
+			<type name="MassMolleBagDesert" />
+			<type name="MassMolleBagGorka" />
+			<type name="Massbag" />
+			<type name="Massbag2" />
+			<type name="Massbag3" />
+			<type name="Massbag4" />
+			<type name="Massmedbag" />
+			<type name="Massmedbag_blue" />
+			<type name="Massmedbag_green" />
+			<type name="MassLargeSmersh" />
+			<type name="MassLargeSmersh_Black" />
+			<type name="MassLargeSmersh_Tan" />
+			<type name="MassSmershblack" />
+			<type name="MassImprovisedBag_Black" />
+			<type name="MassImprovisedBag_Blue" />
+			<type name="MassImprovisedBag_Green" />
+			<type name="MassImprovisedBag_Orange" />
+			<type name="MassImprovisedBag_Pink" />
+			<type name="MassImprovisedBag_Red" />
+			<type name="MassImprovisedBag_Yellow" />
+			<type name="MassImprovisedBag_Woodland" />
+			<type name="MassImprovisedBag_Partizan" />
+			<type name="MassImprovisedBag_Urban" />
+			<type name="MassRainCoatcourier_Black" />
+			<type name="MassRainCoatcourier_Blue" />
+			<type name="MassRainCoatcourier_Green" />
+			<type name="MassRainCoatcourier_Orange" />
+			<type name="MassRainCoatcourier_Pink" />
+			<type name="MassRainCoatcourier_Red" />
+			<type name="MassRainCoatcourier_Yellow" />
+			<type name="MassRainCoatcourier_Woodland" />
+			<type name="MassRainCoatcourier_PartizanM" />
+			<type name="MassRainCoatcourier_Urban" />
+			<type name="Massww2SShelmet" />
+			<type name="MassCBhelmet" />
+			<type name="MassCBhelmet_Green" />
+			<type name="MassCatEars" />
+			<type name="MassFedora_Black" />
+			<type name="MassFedora_White" />
+			<type name="MassFedora_Pink" />
+			<type name="MassFedora_Yellow" />
+			<type name="MassFedora_Red" />
+			<type name="MassFedora_Blue" />
+			<type name="MassFedora_Grey" />
+			<type name="MassFedora_Brown" />
+			<type name="MassFedora_Beige" />
+			<type name="MassMolleBelt" />
+			<type name="MassMolleBeltBlack" />
+			<type name="MassMolleBeltODG" />
+			<type name="MassMolleBeltWD" />
+			<type name="MassTacticalBag" />
+			<type name="MassTacticalBagBlack" />
+			<type name="MassTacticalBagWD" />
+			<type name="Massmagpouches" />
+			<type name="MassLargeMollePouch" />
+			<type name="MassLargeMollePouchBlack" />
+			<type name="MassLargeMollePouchGorka" />
+			<type name="MassLargeMollePouchGreen" />
+			<type name="MassMedical_Bag" />
+			<type name="MassMedical_Bag_Blue" />
+			<type name="MassMedical_Bag_Green" />
+			<type name="Massshenron" />
+			<type name="MassDB1" />
+			<type name="MassDB2" />
+			<type name="MassDB3" />
+			<type name="MassDB4" />
+			<type name="MassDB5" />
+			<type name="MassDB6" />
+			<type name="MassDB7" />
+			<type name="MassNBC_Bag" />
+			<type name="MassAR500" />
+			<type name="MassAR500pair" />
+			<type name="MassStockPouch" />
+			<type name="MassScoutSuppressor" />
+			<type name="MassSVTMount" />
+			<type name="shotgun_Suppressor" />
+			<type name="MassSuppressor308" />
+			<type name="MassPPSH41" />
+			<type name="MassPPSH41_Black" />
+			<type name="MassPPSH41_Green" />
+			<type name="MassPPSH41_Camo" />
+			<type name="MassScout556" />
+			<type name="Massm300" />
+			<type name="Massm300_camo" />
+			<type name="MassStevens301" />
+			<type name="MassStevens301SHORT" />
+			<type name="MassStevens301_green" />
+			<type name="MassStevens301_tan" />
+			<type name="MassStevens301SHORT_green" />
+			<type name="MassStevens301SHORT_tan" />
+			<type name="MassKivaari" />
+			<type name="MassSVT40" />
+			<type name="MassSVT40_Black" />
+			<type name="MassSVT40_Green" />
+			<type name="MassSVT40_Camo" />
+			<type name="MassG18" />
+			<type name="MassG18_Green" />
+			<type name="MassM19" />
+			<type name="MassM19_Wood" />
+			<type name="Massmini14" />
+			<type name="MassB52" />
+			<type name="MassPpskn" />
+			<type name="MassAR15" />
+			<type name="MassM110" />
+			<type name="Massarmsan" />
+			<type name="Mass9x39Palm" />
+			<type name="Mass308STANAG" />
+			<type name="Mass762Stanag" />
+			<type name="Massppshdrum" />
+			<type name="Massppshbox" />
+			<type name="Mass_BetaC" />
+			<type name="Mass_PressVestBlack" />
+			<type name="MassBlackGorkabottom" />
+			<type name="MassScoutLRS" />
+			<type name="MassM19_Wood" />
+			<type name="MassGDShirt" />
+			<type name="MassHolo" />
+			<type name="MassHolo2" />
+			<type name="MassScope" />
+			<type name="MassSmiley" />
+			<type name="MassMuzzle762" />
+			<type name="MassMuzzle556" />
+			<type name="MassMuzzle338" />
+			<type name="MassMuzzlePistol" />
+			<type name="MassType81" />
+			<type name="MassM16" />
+			<type name="MassMP153" />
+			<type name="Mass1P69" />
+			<type name="MassBallisticShield" />
+			<type name="MassMeth" />
+			<type name="MassBinocs" />
+			<type name="MassMolleBeltSnow" />
+			<type name="MassPaint" />
+			<type name="MassSurvivorBag" />
+			<type name="MassSurvivorBag_Green" />
+			<type name="MassSurvivorBag_Black" />
+			<type name="MassSurvivorBag_Tan" />
+			<type name="MassSurvivorBag_Winter" />
+			<type name="Mass357M1911" />
+			<type name="MassTMP153" />
+			<type name="MassHeli_MRE9" />
+			<type name="MassHeli_MRE10" />
+			<type name="MassMRE4" />
+			<type name="MassMRE9" />
+			<type name="MassMRE10" />
+			<type name="MassHeli_MRE4" />
+			<type name="MassPKA" />
+	</type>
+	
+</spawnabletypes>

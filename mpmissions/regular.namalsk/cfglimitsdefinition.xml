@@ -11,6 +11,8 @@
         <category name="containers" />
         <category name="clothes" />
         <category name="bags" />
+		<category name="books"/>
+		<category name="vehicleparts" />
     </categories>
     <tags>
         <tag name="military" />
@@ -24,8 +26,25 @@
         <tag name="fishing" />
         <tag name="seaice" />
         <tag name="seasonalevent" />
+	    <tag name="floor"/>
+        <tag name="shelves"/>
+        <tag name="ground"/>
     </tags>
     <usageflags />
+	 <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Prison"/>
+    </usageflags>
     <valueflags>
         <value name="Tier1"/>
         <value name="Tier2"/>
